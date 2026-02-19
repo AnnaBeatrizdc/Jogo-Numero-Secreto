@@ -8,7 +8,7 @@ Projeto educacional da **Alura** que explora conceitos fundamentais de programa�
 
 ## � Gameplay
 
-1. Um número aleatório entre 1 e 5000 é gerado
+1. Um número aleatório entre 1 e 10 é gerado
 2. Você recebe um prompt solicitando um palpite
 3. A cada tentativa, o jogo fornece dicas:
    - ⬆️ "O número secreto é maior que X"
@@ -36,7 +36,7 @@ Projeto educacional da **Alura** que explora conceitos fundamentais de programa�
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 ## 📚 Conceitos JavaScript Utilizados
 
@@ -48,17 +48,6 @@ Projeto educacional da **Alura** que explora conceitos fundamentais de programa�
 - **Template Literals** (backticks com `${}`)
 - **Funções de I/O** (`prompt()`, `alert()`)
 - **Console** (`console.log()`)
-
-## � Modificações Sugeridas
-
-Experimente aprimorar o projeto:
-
-- Adicionar diferentes níveis de dificuldade
-- Implementar um limite de tentativas
-- Salvar o histórico de jogos
-- Criar uma interface visual com elementos DOM
-- Adicionar animações e sons
-- Adicionar um sistema de pontuação
 
 ## 📝 Exemplos de Código
 
@@ -83,3 +72,4 @@ while (chute != numeroSecreto) {
 ---
 
 **Desenvolvido durante o curso "Lógica de Programação com JavaScript" - Alura** ✨
+
