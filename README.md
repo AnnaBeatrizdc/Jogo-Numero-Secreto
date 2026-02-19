@@ -64,7 +64,7 @@ while (chute != numeroSecreto) {
 }
 ```
 
-## 🎓 Para Aprender Mais
+## 🎓 Documentação Utilizada
 
 - [MDN - JavaScript Basics](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [Documentação Alura](https://www.alura.com.br)
@@ -72,4 +72,5 @@ while (chute != numeroSecreto) {
 ---
 
 **Desenvolvido durante o curso "Lógica de Programação com JavaScript" - Alura** ✨
+
 
